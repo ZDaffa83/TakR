@@ -1,2 +1,2 @@
 # TakR
-Repo PPL Sekala
+Sebuah Repository Aplikasi Manajemen Inventory Cafe
